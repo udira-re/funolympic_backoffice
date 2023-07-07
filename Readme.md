@@ -3,7 +3,7 @@
 **Clone**
 
 ```sh
-  git clone git@github.com:udira-re/funolympic_frontend.git
+  git clone git@github.com:udira-re/funolympic_backoffice.git
 ```
 
 ## Run Locally
