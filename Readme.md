@@ -27,3 +27,12 @@
 ```sh
   yarn run dev
 ```
+
+**Note**
+
+- Admin credentails
+
+  ```sh
+    email: superadmin@gmail.com
+    password: Super@123
+  ```
